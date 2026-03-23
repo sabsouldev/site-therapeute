@@ -1,6 +1,6 @@
 # 🌿 Site vitrine fictif - Chrys’Alide, Thérapeute holistique
 
-Ce projet est un **site one-page responsive** fictif, conçu pour une thérapeute à Bordeaux, dans le cadre de mon portfolio professionnel.
+Ce projet est un **site one-page responsive** fictif, conçu pour une thérapeute, dans le cadre de mon portfolio professionnel.
 
 ## ✨ Objectifs
 - Créer une page d’accueil claire et accueillante
