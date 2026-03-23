@@ -1,4 +1,4 @@
-# 🌿 Site vitrine fictif - Chrys’Alide, Thérapeute holistique
+# 🌿 Site Landing Page fictif - Chrys’Alide, Thérapeute holistique
 
 Ce projet est un **site one-page responsive** fictif, conçu pour une thérapeute, dans le cadre de mon portfolio professionnel.
 
