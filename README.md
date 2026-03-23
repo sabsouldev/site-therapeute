@@ -1,4 +1,4 @@
-# 🌿 Site vitrine fictif - Claire Dupin, Thérapeute holistique
+# 🌿 Site vitrine fictif - Chrys’Alide, Thérapeute holistique
 
 Ce projet est un **site one-page responsive** fictif, conçu pour une thérapeute à Bordeaux, dans le cadre de mon portfolio professionnel.
 
@@ -13,10 +13,6 @@ Ce projet est un **site one-page responsive** fictif, conçu pour une thérapeut
 - CSS3 (fichier séparé)
 - Bootstrap 5 (CDN)
 - JavaScript de base (fichier vide prêt à l’emploi)
-
-## 🖥️ Aperçu
-
-*(capture d’écran à insérer ici plus tard)*
 
 ## 📁 Arborescence
 site-therapeute/
